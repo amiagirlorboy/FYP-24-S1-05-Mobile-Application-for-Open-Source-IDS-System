@@ -1,0 +1,10 @@
+{
+    "name": "Suricata",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Suricata",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
